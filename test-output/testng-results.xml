@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="108166" started-at="2019-09-04T22:17:55Z" finished-at="2019-09-04T22:19:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="108166" started-at="2019-09-04T22:17:55Z" finished-at="2019-09-04T22:19:44Z">
+      <class name="com.jquery.ui.JqueryUITest">
+        <test-method status="PASS" signature="eachMethodStart()[pri:0, instance:com.jquery.ui.JqueryUITest@224edc67]" name="eachMethodStart" is-config="true" duration-ms="4649" started-at="2019-09-04T22:17:55Z" finished-at="2019-09-04T22:18:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- eachMethodStart -->
+        <test-method status="PASS" signature="StartChromeBrowser()[pri:0, instance:com.jquery.ui.JqueryUITest@224edc67]" name="StartChromeBrowser" duration-ms="847" started-at="2019-09-04T22:18:00Z" finished-at="2019-09-04T22:18:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartChromeBrowser -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.jquery.ui.JqueryUITest@224edc67]" name="afterMethod" is-config="true" duration-ms="3805" started-at="2019-09-04T22:18:01Z" finished-at="2019-09-04T22:18:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="eachMethodStart()[pri:0, instance:com.jquery.ui.JqueryUITest@224edc67]" name="eachMethodStart" is-config="true" duration-ms="3306" started-at="2019-09-04T22:18:05Z" finished-at="2019-09-04T22:18:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- eachMethodStart -->
+        <test-method status="PASS" signature="interactions()[pri:1, instance:com.jquery.ui.JqueryUITest@224edc67]" name="interactions" duration-ms="27467" started-at="2019-09-04T22:18:08Z" finished-at="2019-09-04T22:18:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- interactions -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.jquery.ui.JqueryUITest@224edc67]" name="afterMethod" is-config="true" duration-ms="5083" started-at="2019-09-04T22:18:36Z" finished-at="2019-09-04T22:18:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="eachMethodStart()[pri:0, instance:com.jquery.ui.JqueryUITest@224edc67]" name="eachMethodStart" is-config="true" duration-ms="3424" started-at="2019-09-04T22:18:41Z" finished-at="2019-09-04T22:18:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- eachMethodStart -->
+        <test-method status="PASS" signature="widgets()[pri:2, instance:com.jquery.ui.JqueryUITest@224edc67]" name="widgets" duration-ms="55544" started-at="2019-09-04T22:18:44Z" finished-at="2019-09-04T22:19:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- widgets -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.jquery.ui.JqueryUITest@224edc67]" name="afterMethod" is-config="true" duration-ms="4008" started-at="2019-09-04T22:19:40Z" finished-at="2019-09-04T22:19:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.jquery.ui.JqueryUITest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
